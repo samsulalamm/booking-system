@@ -29,6 +29,8 @@ Generate a new application key
 Run the database migrations (**Set the database connection in .env before migrating**)
 
     php artisan migrate
+   
+Start the Mysql database
 
 Start the local development server
 
